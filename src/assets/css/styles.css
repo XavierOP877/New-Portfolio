@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500;600;700;800&display=swap');
+
+
+html,
+body,
+#root{
+    scroll-behavior: smooth;
+    font-family: "Sora", sans-serif;
+    color:"#111827";
+    height: 100%;
+}
+
+.fade-in {
+    animation: animation-fade-in 1s;
+  }
+
+@keyframes animation-fade-in {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
