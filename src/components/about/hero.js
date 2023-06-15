@@ -40,7 +40,7 @@ function About() {
                 exploring. <br /> <br />  If you are interested in my coding skills{" "}
                 <span className="text-black-500 underline font-medium">
                   <a
-                    href="https://github.com/ad242"
+                    href="https://github.com/XavierOP877"
                     rel="noopener noreferrer"
                     target="_blank"
                   >

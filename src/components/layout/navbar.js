@@ -43,16 +43,7 @@ function navbar() {
                 to="/design"
                 activeClassName="pb-2 border-b-4 text-indigo-600 border-indigo-600"
               >
-                Design{" "}
-              </NavLink>
-            </div>
-
-            <div className="mr-5 text-xl hover:text-indigo-600 ">
-              <NavLink
-                to="/side-projects"
-                activeClassName=" pb-2 border-b-4 text-indigo-600 border-indigo-600"
-              >
-                Side Projects
+                Projects{" "}
               </NavLink>
             </div>
 

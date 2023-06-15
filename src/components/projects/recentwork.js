@@ -32,7 +32,6 @@ function RecentWork() {
               image={pack}
               description="A Solution designed to minimize the crowd at small shops/stores and focuses on a safer and digital way to buy ration and daily goods."
               link="/pack"
-              button="Read Case Study"
             />
             <Card
               category="UI/UX Design"
@@ -40,7 +39,6 @@ function RecentWork() {
               image={cryptoverse}
               description="An Interactive Code School which can take you from a Blockchain Noob to Pro"
               link="/cryptoverse"
-              button="Read Case Study"
             />
             <Card
               category="UI/UX Design"
@@ -48,7 +46,6 @@ function RecentWork() {
               image={zeda}
               description="Building a Product for Product Managers"
               link="/zeda"
-              button="Read Case Study"
             />
             <Card
               category="UI/UX Design"
@@ -56,7 +53,7 @@ function RecentWork() {
               image={feelgood}
               description="A Solution designed to help Millennials & Gen-Z to talk their feelings out and use features that can help them improve their mental health."
               url="https://uxplanet.org/feelgood-ui-ux-case-study-4b10e5cc77f9"
-              button="Read Case Study"
+            
             />
           </div>
           <div className="flex justify-center w-full mt-16">

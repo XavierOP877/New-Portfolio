@@ -6,7 +6,6 @@ import Card from "../components/projects/card";
 import cryptoverse from "../assets/img/projects/Cryptoverse_Wars.jpg";
 import zeda from "../assets/img/projects/Zeda.jpg";
 import feelgood from "../assets/img/projects/feelgood.jpg";
-import taxibazaar from "../assets/img/projects/taxibazaar.jpg";
 import pack from "../assets/img/projects/pack.jpg";
 
 function Design() {
@@ -36,7 +35,6 @@ function Design() {
             image={pack}
             description="A Solution designed to minimize the crowd at small shops/stores and focuses on a safer and digital way to buy ration and daily goods. We were one of the winners in Interaction Design Domain"
             link="/pack"
-            button="Read Case Study"
           />
           <Card
             category="UI/UX Design"
@@ -44,7 +42,6 @@ function Design() {
             image={cryptoverse}
             description="An Interactive Code School which can take you from a Blockchain Noob to Pro"
             link="/cryptoverse"
-            button="Read Case Study"
           />
           <Card
             category="UI/UX Design"
@@ -52,7 +49,6 @@ function Design() {
             image={zeda}
             description="Building a Product for Product Managers"
             link="/zeda"
-            button="Read Case Study"
           />
           <Card
             category="UI/UX Design"
@@ -60,15 +56,6 @@ function Design() {
             image={feelgood}
             description="A Solution designed to help Millennials & Gen-Z to talk their feelings out and use features that can help them improve their mental health."
             url="https://uxplanet.org/feelgood-ui-ux-case-study-4b10e5cc77f9"
-            button="Read Case Study"
-          />
-          <Card
-            category="UI/UX Design"
-            name="Taxi Bazaar | Coming Soon"
-            image={taxibazaar}
-            description="Re-Designed the Website and Vendor app of Taxi Bazaar- An Outstation Taxi Provider with a reach of more than 400 cities across India."
-            button="Coming Soon"
-            classes="opacity-50 cursor-not-allowed"
           />
         </div>
       </div>

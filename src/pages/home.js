@@ -3,7 +3,6 @@ import { Helmet } from "react-helmet";
 
 import Hero from "../components/hero";
 import RecentWork from "../components/projects/recentwork";
-import SideProject from "../components/projects/sideproject";
 
 const Home = () => {
   return (
@@ -15,7 +14,6 @@ const Home = () => {
       </Helmet>
       <Hero />
       <RecentWork />
-      <SideProject />
     </div>
   );
 };
